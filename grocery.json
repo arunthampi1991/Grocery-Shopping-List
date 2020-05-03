@@ -1,0 +1,85 @@
+{
+    "products":[
+        {
+            "serialnumber":1,
+            "name": "Rice",
+            "quantity": 10,
+            "unit": "Kg",
+            "department":"Grains",
+            "notes":"Kuruva"
+        },
+        {
+            "serialnumber":2,
+            "name": "Eggs",
+            "quantity": 12,
+            "unit": "Nos",
+            "department":"Dairy",
+            "notes":"Diabetic Friendly"
+        },
+        {
+            "serialnumber":3,
+            "name": "Cucumber",
+            "quantity": 1,
+            "unit": "Kg",
+            "department":"Vegetables",
+            "notes":"Fresh Green"
+        },
+        {
+            "serialnumber":4,
+            "name": "Brinjal",
+            "quantity": 2,
+            "unit": "Kg",
+            "department":"Vegetables",
+            "notes":"Medium Ripe"
+        },
+        {
+            "serialnumber":5,
+            "name": "Carrot",
+            "quantity": 1,
+            "unit": "Kg",
+            "department":"Vegetables",
+            "notes":"Good Quality"
+        },
+        {
+            "serialnumber":6,
+            "name": "Soap",
+            "quantity": 4,
+            "unit": "Nos",
+            "department":"Personal Care",
+            "notes":"Rexona,Dettol"
+        },
+        {
+            "serialnumber":7,
+            "name": "Apple",
+            "quantity": 2,
+            "unit": "Kg",
+            "department":"Fruits",
+            "notes":"New Zealand Apple"
+        },
+        {
+            "serialnumber":8,
+            "name": "Banana",
+            "quantity": 2,
+            "unit": "Kg",
+            "department":"Fruits",
+            "notes":"Robusta"
+        },
+        {
+            "serialnumber":9,
+            "name": "Moon Dal",
+            "quantity": 1,
+            "unit": "Kg",
+            "department":"Pulses",
+            "notes":"Good Quality"
+        },
+        {
+            "serialnumber":10,
+            "name": "Bengal Gram",
+            "quantity": 1,
+            "unit": "Kg",
+            "department":"Pulses",
+            "notes":"Good Quality"
+        }
+
+    ]
+}
